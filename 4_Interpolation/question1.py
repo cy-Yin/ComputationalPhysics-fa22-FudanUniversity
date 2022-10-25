@@ -1,5 +1,5 @@
 # python 3.8.13
-# NewtonInterpolation_q1.py
+# question1.py
 
 # Created on Oct 17 22:26:42 2022
 # @author: yinchaoyang

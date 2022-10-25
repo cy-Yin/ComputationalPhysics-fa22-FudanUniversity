@@ -1,12 +1,12 @@
 # python 3.8.13
-# least_squares_method_version1.py
+# least_squares_method_q2.py
 
 # Created on Oct 15 11:25:30 2022
 # version: 1.0
 # @author: yinchaoyang
 # --- utf-8 ---
 
-# Using the P-V data to obtain constant a and b 
+# Using the T-X data to obtain constant a, b and c 
 # with the least-squares "parabolic-line fitting" method.
 
 import numpy as np

@@ -1,5 +1,5 @@
 # python 3.8.13
-# NewtonInterpolation_q1.py
+# CubicSplineInterpolation.py
 
 # Created on Oct 18 16:02:04 2022
 # @author: yinchaoyang

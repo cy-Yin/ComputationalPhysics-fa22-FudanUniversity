@@ -1,12 +1,12 @@
 # python 3.8.13
-# least_squares_method_version1.py
+# least_squares_method_q1.py
 
 # Created on Oct 15 09:34:06 2022
 # version: 1.0
 # @author: yinchaoyang
 # --- utf-8 ---
 
-# Using the P-V data to obtain constant a and b 
+# Using the T-X data to obtain constant a and b 
 # with the least-squares "linear fitting" method.
 
 import numpy as np
