@@ -54,5 +54,5 @@ if __name__ == '__main__':
     eigen_states, eigenvectors_prime = np.linalg.eig(H)
     eigen_states = np.sort(np.abs(eigen_states))
     print("The lowest three eigenvalues are")
-    for i in range(30):
+    for i in range(3):
         print(eigen_states[i])
