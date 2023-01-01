@@ -189,5 +189,3 @@ if __name__ == '__main__':
 
     # Plot the results.
     plot(temperature, magnetizations)
-
-    # Tc = 143.8
