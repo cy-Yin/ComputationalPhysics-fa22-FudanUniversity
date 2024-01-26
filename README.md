@@ -1,4 +1,4 @@
-# ComputingPhysics2022
+# ComputationalPhysics-fa22-FudanUniversity
 
 2022年秋季 计算物理基础 复旦大学 课程作业
 
